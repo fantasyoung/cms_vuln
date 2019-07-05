@@ -1,4 +1,4 @@
-# finecms xss漏洞
+# finecms xss vulnerability
 
 The vesion of program is finecms v5.4.0
 
