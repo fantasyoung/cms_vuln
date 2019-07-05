@@ -1,5 +1,7 @@
 # finecms xss vulnerability
 
+[finecms5.4.0 source code](finecms_v5.4.0.0620.zip)
+
 The vesion of program is finecms v5.4.0
 
 ![](Untitled-fee1ab5c-9717-409c-879d-d8db8dfa4c2b.png)
